@@ -1,7 +1,7 @@
 
 Html , CSS , JavaScript
 
-Demo : comforting-pixie-1e521d.netlify.app
+Demo : https://comforting-pixie-1e521d.netlify.app
 
 ## Sections
 - Part1: Responsive Home Page Design.
